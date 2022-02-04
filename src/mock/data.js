@@ -22,10 +22,9 @@ export const aboutData = {
   paragraphOne:
     "I'm student in the Faculty of computer Science and Automated control at Tanta University",
   paragraphTwo: `
-    Regarding software development, 
-    I started my development journey with C/C++ in embedded system applications then I got more attracted by the web technologies so
-    I started to learn python with some file automation and eventually got into the web starting with Javascript and React ecosystems like redux, sagas, 
-    react-router and react Hooks also familiar with back-end technologies like nodeJS, express, and Postgres
+    Regarding software development,
+    I started my development journey with C/C++ in embedded system applications then I got more attracted by the web technologies so I started to learn Javascript and React ecosystems like redux, sagas, react-router, and react Hooks
+    also familiar with back-end technologies like nodeJS, express, and Postgres also have knowledge in IT automation with python 
   `,
   paragraphThree:
     "I know that sounds like a lot of diversity 😅, but I'm always willing to explore and learn new technologies",
