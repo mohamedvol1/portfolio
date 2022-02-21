@@ -39,7 +39,7 @@ export const projectsData = [
     title: 'e-commerce app',
     info: 'this full-stack e-commerce app includes ReactJS in front-End, firebase in Back-End, and online payments using stripe',
     info2: 'it handles also users sign in and sign out and users sessions',
-    url: 'https://clothing-club-102.herokuapp.com/',
+    url: 'https://new-clothing-club.herokuapp.com/',
     repo: 'https://github.com/mohamedvol1/clothing-club', // if no repo, the button will not show up
   },
   {
