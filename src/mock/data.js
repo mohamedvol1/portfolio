@@ -37,8 +37,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'e-commerce.png',
     title: 'e-commerce app',
-    info: 'this full-stack e-commerce app includes ReactJS in front-End, firebase in Back-End, and online payments using stripe',
-    info2: 'it handles also users sign in and sign out and users sessions',
+    info: 'this full-stack e-commerce app includes ReactJS in front-End, MaterialUi components, and server for online stripe payments with nodeJs',
+    info2: 'it handles also users sign in and sign out and users sessions using firebase',
     url: 'https://new-clothing-club.herokuapp.com/',
     repo: 'https://github.com/mohamedvol1/clothing-club', // if no repo, the button will not show up
   },
@@ -49,7 +49,7 @@ export const projectsData = [
     info: `full-stack face recognition app uses Clarify API to Detects faces in the images by passing its URL.
       Front-End developed in ReactJS and NodeJs in Back-End and it leverages PostgresDB`,
     info2:
-      "this was my first real project and I'm aware it needs a lot of work it's not finished for me yet",
+      "this was my first real project and I'm aware it needs a lot of work and it will have updates",
     url: 'https://stoic-jang-3f18b5.netlify.app/',
     repo: 'https://github.com/mohamedvol1/faceRecognitionApp101', // if no repo, the button will not show up
   },
