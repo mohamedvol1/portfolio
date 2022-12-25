@@ -22,12 +22,10 @@ export const aboutData = {
   paragraphOne:
     "I'm student in the Faculty of computer Science and Automated control at Tanta University",
   paragraphTwo: `
-    Regarding software development,
-    I started my development journey with C/C++ in embedded system applications then I got more attracted by the web technologies so I started to learn Javascript and React ecosystems like redux, sagas, react-router, and react Hooks
-    also familiar with back-end technologies like nodeJS, express, and Postgres also have knowledge in IT automation with python 
+    A self-taught web developer who is always passionate about learning new technologies and can build new stuff with various programming languages and tools.
   `,
   paragraphThree:
-    "I know that sounds like a lot of diversity 😅, but I'm always willing to explore and learn new technologies",
+    "Currently exploring opportunities and side projects",
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -39,7 +37,7 @@ export const projectsData = [
     title: 'e-commerce app',
     info: 'this full-stack e-commerce app includes ReactJS in front-End, MaterialUi components, and server for online stripe payments with nodeJs',
     info2: 'it handles also users sign in and sign out and users sessions using firebase',
-    url: 'https://new-clothing-club.herokuapp.com/',
+    url: 'https://clothnig-club.onrender.com/',
     repo: 'https://github.com/mohamedvol1/clothing-club', // if no repo, the button will not show up
   },
   {
@@ -50,8 +48,18 @@ export const projectsData = [
       Front-End developed in ReactJS and NodeJs in Back-End and it leverages PostgresDB`,
     info2:
       "this was my first real project and I'm aware it needs a lot of work and it will have updates",
-    url: 'https://stoic-jang-3f18b5.netlify.app/',
+    url: 'https://phenomenal-meringue-c79e88.netlify.app/',
     repo: 'https://github.com/mohamedvol1/faceRecognitionApp101', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Banking_app.png',
+    title: 'Banking app',
+    info: `A simple banking app, through it you can make transactions between clients registered on the system`,
+    info2:
+      "",
+    url: 'https://banking-app-hbp5.onrender.com/',
+    repo: 'https://github.com/mohamedvol1/Basic-Bank-System', // if no repo, the button will not show up
   },
 ];
 
