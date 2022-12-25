@@ -26,7 +26,7 @@ export const aboutData = {
   `,
   paragraphThree:
     "Currently exploring opportunities and side projects",
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://docs.google.com/document/d/1VIsbZkidNjoMPlbGZkz8xlROy5AbwoN8ZMvSsFXuUGA/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
